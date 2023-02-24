@@ -31,7 +31,7 @@ contoh: `ruby tests/1_test.rb`
 #### lampirkan screenshot hasil test di bawah
 ![Nomor 1](images/1.png)
 ![Nomor 2](images/2.png)
-![Nomor 3][def]
+![Nomor 3](images/3.png)
 ![Nomor 4](images/4.png)
 ![Nomor 5](images/5.png)
 ![Nomor 6](images/6.png)
