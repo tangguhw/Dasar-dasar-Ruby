@@ -29,7 +29,8 @@ contoh: `ruby tests/1_test.rb`
 
 
 #### lampirkan screenshot hasil test di bawah
-![Nomor 1](images/1.png)
+![Test Runner](images/test.runner.png)
+<!-- ![Nomor 1](images/1.png)
 ![Nomor 2](images/2.png)
 ![Nomor 3](images/3.png)
 ![Nomor 4](images/4.png)
@@ -38,4 +39,4 @@ contoh: `ruby tests/1_test.rb`
 ![Nomor 7](images/7.png)
 ![Nomor 8](images/8.png)
 ![Nomor 9](images/9.png)
-![Nomor 10](images/10.png)
+![Nomor 10](images/10.png) -->

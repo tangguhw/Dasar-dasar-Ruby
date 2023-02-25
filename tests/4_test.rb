@@ -11,11 +11,10 @@ class TestIsPalindrome < Minitest::Test
   end
 
   def test_is_palindrome_with_capital_letters
-    assert_equal true, is_palindrome("Racecar")
+    assert_equal true, is_palindrome?("Racecar")
   end
 
   def test_irfan_is_not_palindrome
     assert_equal false, is_palindrome?("irfan")
   end
-
 end
